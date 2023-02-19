@@ -12,7 +12,7 @@ There are some my favorite technologies:
 
 I am going to study:
 
-1. IndexedDB
+1. ~~IndexedDB~~ (finished on 20230219)
 2. ServiceWorker
 3. WebComponents
 4. MediaSourceExtension
