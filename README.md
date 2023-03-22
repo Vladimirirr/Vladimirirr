@@ -15,6 +15,8 @@ I am going to study: (The `finished` below just means when I first systematicall
 1. ~~IndexedDB~~ (finished on 20230219)
 2. ~~ServiceWorker~~ (finished on 20230226)
 3. ~~WebComponents~~ (finished on 20230226)
-4. MediaSourceExtension
+4. Streams
+5. 《JavaScript 函数式指南》
+6. 《JavaScript 二十年》
 
 Last but not least, my favorite sentence is "你在雨中行走，你从不打伞，你有你自己的天空，它从不下雨。".
