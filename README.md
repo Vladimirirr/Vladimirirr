@@ -17,9 +17,3 @@ These are some of my best works:
 - [HowVueWorksSealeded](https://github.com/Vladimirirr/HowVueWorksSealeded): A book about how Vue works
 
 Last but not least, my favorite sentence is "你在雨中行走，你从不打伞，你有你自己的天空，它从不下雨。".
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
